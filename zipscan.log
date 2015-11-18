@@ -1,0 +1,156 @@
+2015-11-04,10:15:11 INFO  [main](com.qiaoda.unzip.TopStartUp:31) -文件总数包括文件夹：5
+2015-11-04,10:15:36 INFO  [main](com.qiaoda.unzip.TopStartUp:31) -文件总数包括文件夹：1
+2015-11-04,10:15:36 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\_6_建筑英才网_简历导出_20150710 (12).zip
+2015-11-04,10:16:06 INFO  [main](com.qiaoda.unzip.TopStartUp:31) -文件总数包括文件夹：2
+2015-11-04,10:16:06 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123.zip
+2015-11-04,10:17:24 INFO  [main](com.qiaoda.unzip.TopStartUp:31) -文件总数包括文件夹：3
+2015-11-04,10:17:49 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123.zip
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:31) -文件总数包括文件夹：3
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123.zip
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.UnCompress:250) -出现异常：Error while expanding G:\test\123.zip
+java.nio.charset.MalformedInputException: Input length = 1
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\123.zip
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123.zip
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\_6_建筑英才网_简历导出_20150710 (12).zip
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.UnCompress:250) -出现异常：Error while expanding G:\test\_6_建筑英才网_简历导出_20150710 (12).zip
+java.nio.charset.MalformedInputException: Input length = 1
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\_6_建筑英才网_简历导出_20150710 (12).zip
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\_6_建筑英才网_简历导出_20150710 (12).zip
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\建筑英才网_简历导出_20150710.html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\建筑英才网_简历导出_20150710.html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\建筑英才网_简历导出_20150710.html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\_乔萧萧_12210416209636(辽宁-大连市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\_乔萧萧_12210416209636(辽宁-大连市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\_乔萧萧_12210416209636(辽宁-大连市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\任伟东_12210413671216(北京-通州区_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\任伟东_12210413671216(北京-通州区_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\任伟东_12210413671216(北京-通州区_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\刘佳_12210417165762(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\刘佳_12210417165762(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\刘佳_12210417165762(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\刘帅_12210427040806(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\刘帅_12210427040806(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\刘帅_12210427040806(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\刘平_12210417041176(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\刘平_12210417041176(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\刘平_12210417041176(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\刘振华_12210411391827(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\刘振华_12210411391827(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\刘振华_12210411391827(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\刘洪州_12210415398935(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\刘洪州_12210415398935(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\刘洪州_12210415398935(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\刘红霞_12210415786179(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\刘红霞_12210415786179(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\刘红霞_12210415786179(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\吴冬_12210417001559(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\吴冬_12210417001559(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\吴冬_12210417001559(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\呼宁_12210426307391(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\呼宁_12210426307391(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\呼宁_12210426307391(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\夏华月_12210417197590(河北-沧州市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\夏华月_12210417197590(河北-沧州市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\夏华月_12210417197590(河北-沧州市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\宋学敏_12210416073806(山西-太原市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\宋学敏_12210416073806(山西-太原市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\宋学敏_12210416073806(山西-太原市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\宋学敏_12210417057771(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\宋学敏_12210417057771(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\宋学敏_12210417057771(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\岳小刚_12210417048877(河北-邢台市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\岳小刚_12210417048877(河北-邢台市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\岳小刚_12210417048877(河北-邢台市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\崔瑞雪_12210417033673(河北-邯郸市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\崔瑞雪_12210417033673(河北-邯郸市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\崔瑞雪_12210417033673(河北-邯郸市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\张书实_12210415827356(河北-秦皇岛市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\张书实_12210415827356(河北-秦皇岛市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\张书实_12210415827356(河北-秦皇岛市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\张建航_12210416581696(上海_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\张建航_12210416581696(上海_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\张建航_12210416581696(上海_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\张怡_12210416049980(山西-运城市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\张怡_12210416049980(山西-运城市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\张怡_12210416049980(山西-运城市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\张金平_12210426519265(天津_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\张金平_12210426519265(天津_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\张金平_12210426519265(天津_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\徐荣臻_12210426226160(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\徐荣臻_12210426226160(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\徐荣臻_12210426226160(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\曹蕊_12210416858677(上海_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\曹蕊_12210416858677(上海_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\曹蕊_12210416858677(上海_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\曹蕊_12210416865109(上海-杨浦区_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\曹蕊_12210416865109(上海-杨浦区_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\曹蕊_12210416865109(上海-杨浦区_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\曹蕊_12210416900672(上海_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\曹蕊_12210416900672(上海_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\曹蕊_12210416900672(上海_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\李昕_12210416451171(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\李昕_12210416451171(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\李昕_12210416451171(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\李晓宇_12210417117782(上海_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\李晓宇_12210417117782(上海_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\李晓宇_12210417117782(上海_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\杨先生_12210411130132(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\杨先生_12210411130132(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\杨先生_12210411130132(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\杨先生_12210415976072(四川-成都市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\杨先生_12210415976072(四川-成都市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\杨先生_12210415976072(四川-成都市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\樊平_12210417043304(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\樊平_12210417043304(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\樊平_12210417043304(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\母昌礼_12210425894622(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\母昌礼_12210425894622(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\母昌礼_12210425894622(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\王晓德_12210416890263(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\王晓德_12210416890263(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\王晓德_12210416890263(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\王晓扬_12210411194935(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\王晓扬_12210411194935(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\王晓扬_12210411194935(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\王楚乔_12210416997146(吉林-长春市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\王楚乔_12210416997146(吉林-长春市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\王楚乔_12210416997146(吉林-长春市_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\罗伟_12210416456616(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\罗伟_12210416456616(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\罗伟_12210416456616(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\肖璐_12210414643685(重庆-渝北区_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\肖璐_12210414643685(重庆-渝北区_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\肖璐_12210414643685(重庆-渝北区_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\车维力_12210416981333(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\车维力_12210416981333(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\车维力_12210416981333(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\霍凯军_12210416307595(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\霍凯军_12210416307595(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\霍凯军_12210416307595(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\高嫣茹_12210417002355(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\高嫣茹_12210417002355(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\高嫣茹_12210417002355(北京_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\123\resume\高康健_12210416980269(内蒙古_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\高康健_12210416980269(内蒙古_高级主创建筑师).html
+2015-11-04,10:20:23 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\123\resume\高康健_12210416980269(内蒙古_高级主创建筑师).html
+2015-11-04,10:24:32 INFO  [main](com.qiaoda.unzip.TopStartUp:31) -文件总数包括文件夹：1
+2015-11-04,10:24:32 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\_6_建筑英才网_简历导出_20150710 (12).zip
+2015-11-04,10:24:32 INFO  [main](com.qiaoda.unzip.UnCompress:250) -出现异常：Error while expanding G:\test\_6_建筑英才网_简历导出_20150710 (12).zip
+java.nio.charset.MalformedInputException: Input length = 1
+2015-11-04,10:24:32 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\_6_建筑英才网_简历导出_20150710 (12).zip
+2015-11-04,10:24:32 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\_6_建筑英才网_简历导出_20150710 (12).zip
+2015-11-04,10:25:27 INFO  [main](com.qiaoda.unzip.TopStartUp:31) -文件总数包括文件夹：1
+2015-11-04,10:25:31 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\_6_建筑英才网_简历导出_20150710 (12).zip
+2015-11-04,10:25:34 INFO  [main](com.qiaoda.unzip.UnCompress:250) -出现异常：Error while expanding G:\test\_6_建筑英才网_简历导出_20150710 (12).zip
+java.nio.charset.MalformedInputException: Input length = 1
+2015-11-04,10:25:39 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\_6_建筑英才网_简历导出_20150710 (12).zip
+2015-11-04,10:28:57 INFO  [main](com.qiaoda.unzip.TopStartUp:31) -文件总数包括文件夹：1
+2015-11-04,10:29:00 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -start G:\test\_6_建筑英才网_简历导出_20150710 (12).zip
+2015-11-04,10:29:02 INFO  [main](com.qiaoda.unzip.TopStartUp:67) -解压文件异常:G:\test\_6_建筑英才网_简历导出_20150710 (12).zip
+2015-11-04,10:30:53 INFO  [main](com.qiaoda.unzip.TopStartUp:31) -文件总数包括文件夹：3
+2015-11-04,10:30:56 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -start G:\test\fromid_4___miaohrid_10___linkid_d2dbae84b74d4d532a032de9j___jobname_鏁版嵁娴嬭瘯鏂囧憳___cityname_鍖椾含甯俖__1404563486___1.zip
+2015-11-04,10:30:56 INFO  [main](com.qiaoda.unzip.TopStartUp:63) -新文件名:D:\aaa\fromid_4___miaohrid_10___linkid_d2dbae84b74d4d532a032de9j___jobname_鏁版嵁娴嬭瘯鏂囧憳___cityname_鍖椾含甯俖__1404563486___1.zip
+2015-11-04,10:30:56 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -start G:\test\fromid_4___miaohrid_10___linkid_db54ae84e0ba7d539978328ej___jobname_鍏叧缁忕悊锛堜簰鑱旂綉琛屼笟锛塤__cityname_鍖椾含甯俖__1404563486___1.zip
+2015-11-04,10:30:56 INFO  [main](com.qiaoda.unzip.TopStartUp:63) -新文件名:D:\aaa\fromid_4___miaohrid_10___linkid_db54ae84e0ba7d539978328ej___jobname_鍏叧缁忕悊锛堜簰鑱旂綉琛屼笟锛塤__cityname_鍖椾含甯俖__1404563486___1.zip
+2015-11-04,10:30:56 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -start G:\test\_6_建筑英才网_简历导出_20150710 (12).zip
+2015-11-04,10:30:56 INFO  [main](com.qiaoda.unzip.TopStartUp:67) -解压文件异常:G:\test\_6_建筑英才网_简历导出_20150710 (12).zip

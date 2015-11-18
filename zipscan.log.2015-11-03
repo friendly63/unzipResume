@@ -1,0 +1,107 @@
+2015-11-03,17:47:42 INFO  [main](com.qiaoda.unzip.StartUp:45) -开始解压
+2015-11-03,17:48:02 INFO  [main](com.qiaoda.unzip.StartUp:28) -开始解压：1592.rar
+2015-11-03,17:49:36 INFO  [main](com.qiaoda.unzip.StartUp:47) -解压结束
+2015-11-03,17:52:34 INFO  [main](com.qiaoda.unzip.StartUp:45) -开始解压
+2015-11-03,17:52:36 INFO  [main](com.qiaoda.unzip.StartUp:28) -开始解压：1592.rar
+2015-11-03,17:53:15 INFO  [main](com.qiaoda.unzip.StartUp:28) -开始解压：15922222.rar
+2015-11-03,17:53:21 INFO  [main](com.qiaoda.unzip.StartUp:47) -解压结束
+2015-11-03,17:55:46 INFO  [main](com.qiaoda.unzip.StartUp:45) -开始解压
+2015-11-03,17:55:51 INFO  [main](com.qiaoda.unzip.StartUp:28) -开始解压：1592.rar
+2015-11-03,18:10:38 INFO  [main](com.qiaoda.unzip.StartUp:45) -开始解压
+2015-11-03,18:10:38 INFO  [main](com.qiaoda.unzip.StartUp:28) -开始解压：1592.rar
+2015-11-03,18:12:58 INFO  [main](com.qiaoda.unzip.StartUp:45) -开始解压
+2015-11-03,18:12:58 INFO  [main](com.qiaoda.unzip.StartUp:28) -开始解压：1592.rar
+2015-11-03,18:13:00 INFO  [main](com.qiaoda.unzip.StartUp:28) -开始解压：15922222.rar
+2015-11-03,18:13:01 INFO  [main](com.qiaoda.unzip.StartUp:47) -解压结束
+2015-11-03,18:18:27 INFO  [main](com.qiaoda.unzip.StartUp:45) -开始解压
+2015-11-03,18:18:27 INFO  [main](com.qiaoda.unzip.StartUp:28) -开始解压：1592.rar
+2015-11-03,18:18:29 INFO  [main](com.qiaoda.unzip.StartUp:28) -开始解压：15922222.rar
+2015-11-03,18:18:31 INFO  [main](com.qiaoda.unzip.StartUp:28) -开始解压：qiancheng.7z
+2015-11-03,18:20:38 INFO  [main](com.qiaoda.unzip.StartUp:45) -开始解压
+2015-11-03,18:20:38 INFO  [main](com.qiaoda.unzip.StartUp:28) -开始解压：qiancheng.7z
+2015-11-03,18:24:03 INFO  [main](com.qiaoda.unzip.StartUp:45) -开始解压
+2015-11-03,18:24:03 INFO  [main](com.qiaoda.unzip.StartUp:28) -开始解压：qiancheng.7z
+2015-11-03,18:30:14 INFO  [main](com.qiaoda.unzip.StartUp:45) -开始解压
+2015-11-03,18:30:14 INFO  [main](com.qiaoda.unzip.StartUp:28) -开始解压：qiancheng.7z
+2015-11-03,18:30:14 INFO  [main](com.qiaoda.unzip.StartUp:47) -解压结束
+2015-11-03,21:35:23 INFO  [main](com.qiaoda.unzip.TopStartUp:31) -文件总数包括文件夹：6
+2015-11-03,21:35:23 INFO  [main](com.qiaoda.unzip.TopStartUp:57) -start G:\test\channeluname_bjyd737___fromid_2___miaohrid_2025___1440753612___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -新文件名:D:\aaa\channeluname_bjyd737___fromid_2___miaohrid_2025___1440753612___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:62) -转移成功，删除源文件:G:\test\channeluname_bjyd737___fromid_2___miaohrid_2025___1440753612___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:57) -start G:\test\f1\channeluname_26143558gxxi___fromid_1___miaohrid_1211___1440750792___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -新文件名:D:\aaa\channeluname_26143558gxxi___fromid_1___miaohrid_1211___1440750792___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:62) -转移成功，删除源文件:G:\test\f1\channeluname_26143558gxxi___fromid_1___miaohrid_1211___1440750792___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:57) -start G:\test\f1\channeluname____fromid____miaohrid____1436866873___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -新文件名:D:\aaa\channeluname____fromid____miaohrid____1436866873___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:62) -转移成功，删除源文件:G:\test\f1\channeluname____fromid____miaohrid____1436866873___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:57) -start G:\test\f2\channeluname_26143558gxxi___fromid_1___miaohrid_1211___1440750792___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -新文件名:D:\aaa\channeluname_26143558gxxi___fromid_1___miaohrid_1211___1440750792___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:62) -转移成功，删除源文件:G:\test\f2\channeluname_26143558gxxi___fromid_1___miaohrid_1211___1440750792___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:57) -start G:\test\f2\channeluname_bcbq65768912___fromid_1___miaohrid_1552___1440749134___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -新文件名:D:\aaa\channeluname_bcbq65768912___fromid_1___miaohrid_1552___1440749134___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:62) -转移成功，删除源文件:G:\test\f2\channeluname_bcbq65768912___fromid_1___miaohrid_1552___1440749134___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:57) -start G:\test\f2\channeluname____fromid____miaohrid____1436866873___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -新文件名:D:\aaa\channeluname____fromid____miaohrid____1436866873___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:62) -转移成功，删除源文件:G:\test\f2\channeluname____fromid____miaohrid____1436866873___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:57) -start G:\test\f3\channeluname_bjyd737___fromid_2___miaohrid_2025___1440753612___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -新文件名:D:\aaa\channeluname_bjyd737___fromid_2___miaohrid_2025___1440753612___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:62) -转移成功，删除源文件:G:\test\f3\channeluname_bjyd737___fromid_2___miaohrid_2025___1440753612___1.zip
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:57) -start G:\test\f3\tmp
+2015-11-03,21:35:24 ERROR [main](com.qiaoda.unzip.UnCompress:166) -G:\test\f3\tmp 文件不存在
+2015-11-03,21:35:24 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -新文件名:D:\aaa\tmp
+2015-11-03,21:45:56 INFO  [main](com.qiaoda.unzip.TopStartUp:31) -文件总数包括文件夹：6
+2015-11-03,21:45:56 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\channeluname_bjyd737___fromid_2___miaohrid_2025___1440753612___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\channeluname_bjyd737___fromid_2___miaohrid_2025___1440753612___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\channeluname_bjyd737___fromid_2___miaohrid_2025___1440753612___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\f1\channeluname_26143558gxxi___fromid_1___miaohrid_1211___1440750792___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\channeluname_26143558gxxi___fromid_1___miaohrid_1211___1440750792___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\f1\channeluname_26143558gxxi___fromid_1___miaohrid_1211___1440750792___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\f1\channeluname____fromid____miaohrid____1436866873___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\channeluname____fromid____miaohrid____1436866873___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\f1\channeluname____fromid____miaohrid____1436866873___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\f2\channeluname_26143558gxxi___fromid_1___miaohrid_1211___1440750792___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\channeluname_26143558gxxi___fromid_1___miaohrid_1211___1440750792___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\f2\channeluname_26143558gxxi___fromid_1___miaohrid_1211___1440750792___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\f2\channeluname_bcbq65768912___fromid_1___miaohrid_1552___1440749134___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\channeluname_bcbq65768912___fromid_1___miaohrid_1552___1440749134___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\f2\channeluname_bcbq65768912___fromid_1___miaohrid_1552___1440749134___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\f2\channeluname____fromid____miaohrid____1436866873___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\channeluname____fromid____miaohrid____1436866873___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\f2\channeluname____fromid____miaohrid____1436866873___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\f3\channeluname_bjyd737___fromid_2___miaohrid_2025___1440753612___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\channeluname_bjyd737___fromid_2___miaohrid_2025___1440753612___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\f3\channeluname_bjyd737___fromid_2___miaohrid_2025___1440753612___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\f3\tmp\channeluname_bjyd737___fromid_2___miaohrid_2025___1440826068___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\channeluname_bjyd737___fromid_2___miaohrid_2025___1440826068___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\f3\tmp\channeluname_bjyd737___fromid_2___miaohrid_2025___1440826068___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\f4\channeluname_bjyd737___fromid_2___miaohrid_2025___1440753612___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\channeluname_bjyd737___fromid_2___miaohrid_2025___1440753612___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\f4\channeluname_bjyd737___fromid_2___miaohrid_2025___1440753612___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\f4\channeluname_bjyd737___fromid_2___miaohrid_2025___1440826068___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\channeluname_bjyd737___fromid_2___miaohrid_2025___1440826068___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\f4\channeluname_bjyd737___fromid_2___miaohrid_2025___1440826068___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\f4\channeluname_bjyd737___fromid_2___miaohrid_2025___1440985549___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\channeluname_bjyd737___fromid_2___miaohrid_2025___1440985549___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\f4\channeluname_bjyd737___fromid_2___miaohrid_2025___1440985549___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\f5\channeluname_bjyd737___fromid_2___miaohrid_2025___1440985549___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\channeluname_bjyd737___fromid_2___miaohrid_2025___1440985549___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\f5\channeluname_bjyd737___fromid_2___miaohrid_2025___1440985549___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\f5\channeluname_bjyd737___fromid_2___miaohrid_2025___1441003129___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\channeluname_bjyd737___fromid_2___miaohrid_2025___1441003129___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\f5\channeluname_bjyd737___fromid_2___miaohrid_2025___1441003129___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\f5\tmp\channeluname_bjyd737___fromid_2___miaohrid_2025___1440753612___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\channeluname_bjyd737___fromid_2___miaohrid_2025___1440753612___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\f5\tmp\channeluname_bjyd737___fromid_2___miaohrid_2025___1440753612___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\f5\tmp\channeluname_bjyd737___fromid_2___miaohrid_2025___1440826068___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\channeluname_bjyd737___fromid_2___miaohrid_2025___1440826068___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\f5\tmp\channeluname_bjyd737___fromid_2___miaohrid_2025___1440826068___1.zip
+2015-11-03,21:45:57 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\f5\tmp\t1\channeluname_bjyd737___fromid_2___miaohrid_2025___1440826068___1.zip
+2015-11-03,21:45:58 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\channeluname_bjyd737___fromid_2___miaohrid_2025___1440826068___1.zip
+2015-11-03,21:45:58 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\f5\tmp\t1\channeluname_bjyd737___fromid_2___miaohrid_2025___1440826068___1.zip
+2015-11-03,21:45:58 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\f5\tmp\t1\t2\channeluname_bjyd737___fromid_2___miaohrid_2025___1440985549___1.zip
+2015-11-03,21:45:58 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\channeluname_bjyd737___fromid_2___miaohrid_2025___1440985549___1.zip
+2015-11-03,21:45:58 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\f5\tmp\t1\t2\channeluname_bjyd737___fromid_2___miaohrid_2025___1440985549___1.zip
+2015-11-03,21:45:58 INFO  [main](com.qiaoda.unzip.TopStartUp:59) -start G:\test\f5\tmp\t1\t2\channeluname_bjyd737___fromid_2___miaohrid_2025___1441003129___1.zip
+2015-11-03,21:45:58 INFO  [main](com.qiaoda.unzip.TopStartUp:61) -新文件名:D:\aaa\channeluname_bjyd737___fromid_2___miaohrid_2025___1441003129___1.zip
+2015-11-03,21:45:58 INFO  [main](com.qiaoda.unzip.TopStartUp:64) -转移成功，删除源文件:G:\test\f5\tmp\t1\t2\channeluname_bjyd737___fromid_2___miaohrid_2025___1441003129___1.zip
+2015-11-03,21:47:12 INFO  [main](com.qiaoda.unzip.TopStartUp:31) -文件总数包括文件夹：5
