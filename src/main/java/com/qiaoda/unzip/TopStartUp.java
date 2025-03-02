@@ -21,6 +21,7 @@ public class TopStartUp {
 			String filepath = p.getProperty("topzip.filepath");
 			String copypath = p.getProperty("topzip.copypath");
 			String savepath = p.getProperty("topzip.savepath");
+
 			ArrayList ziplist = new ArrayList();//压缩包路径
 			ArrayList dirctList = new ArrayList();//文档目录
 			File copyfile = new File(copypath);
@@ -57,14 +58,13 @@ public class TopStartUp {
 			}
 			else{
 				try{
-					
-					logger.info("start "+f.getAbsolutePath());
+					logger.info("  start "+f.getAbsolutePath());
 					UnCompress un = new UnCompress(f.getAbsolutePath(),savepath, "rar,zip,doc,docx,xls,xlsx,txt,rtf,pdf,html,htm,xhtml,wml,msg,mht,xml,wps,eml".split(","), "rar,zip,7z".split(",")).process();
-					logger.info("新文件名:"+copypath + File.separator + f.getName());
+					logger.info("  新文件名: "+copypath + File.separator + f.getName());
 					FileUtils.copyTo(f, new File(copypath + File.separator + f.getName()));
 					f.delete();
 				}catch(Exception e){
-					logger.error("解压文件异常:"+f.getAbsolutePath());
+					logger.error(" 解压文件异常: "+f.getAbsolutePath());
 				}
 			
 			}
